@@ -1,0 +1,1 @@
+view'da yapılan işlemler ve model'daki veritabanı arasındaki bağlantıyı controller'lar sayesinde yaparız
